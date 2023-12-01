@@ -1,5 +1,5 @@
 {
-  "name": "csl-locales",
+  "name": "@external/csl-locales",
   "version": "1.0.0",
   "description": "Official repository for Citation Style Language (CSL) locale files.",
   "scripts": {
