@@ -1,0 +1,21 @@
+{
+  "name": "locales",
+  "version": "1.0.0",
+  "description": "Official repository for Citation Style Language (CSL) locale files.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nabeelhassan/locales.git"
+  },
+  "keywords": [
+    "csl-locales"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Nabeelhassan/locales/issues"
+  },
+  "homepage": "https://github.com/citation-style-language/locales",
+  "originalSource": "https://github.com/citation-style-language/locales.git"
+}
